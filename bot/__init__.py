@@ -70,7 +70,7 @@ START_OTHER_USERS_TEXT = get_config(
             
             
 
-        "ℹ️ Subscribe @PUBGM_Tricks if you 😍 using this bot❗️❣️"
+        "ℹ️ Once check @PUBGM_Tricks if you 😍 using this bot❗️❣️PUBGM_Tricks if you 😍 using this bot❗️❣️"
 
 
 
@@ -83,9 +83,9 @@ ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
         "i am online <b>Master</b>\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+       
+
+        "ℹ️ Subscribe @PUBGM_Tricks if you 😍 using this bot❗️❣️"
     )
 )
 # IDEKWBYRW
