@@ -64,11 +64,11 @@ START_OTHER_USERS_TEXT = get_config(
             
         "Leave a massage "
            
-        "📩 My BOSS will reply ASAP "
+             "📩 My BOSS will reply ASAP "
 
-         "So Please ⏰ Wait for My Boss Reply... "
+             "So Please ⏰ Wait for My Boss Reply... "
 
-        "ℹ️ Subscribe @PUBGM_Tricks if you 😍 using this bot❗️❣️"
+             "ℹ️ Subscribe @PUBGM_Tricks if you 😍 using this bot❗️❣️"
 
 
 
