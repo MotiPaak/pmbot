@@ -70,7 +70,7 @@ START_OTHER_USERS_TEXT = get_config(
             
             
 
-        "ℹ️ Once check @PUBGM_Tricks if you 😍 using this bot❗️❣️PUBGM_Tricks if you 😍 using this bot❗️❣️"
+        "ℹ️ Once check @PUBGM_Tricks if you 😍 using this bot❗️❣️"
 
 
 
