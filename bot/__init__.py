@@ -64,9 +64,9 @@ START_OTHER_USERS_TEXT = get_config(
             
         "Leave a massage\n\n"
            
-        "📩 My BOSS will reply ASAP\n"
+        "📩 My BOSS will reply ASAP\n\n"
 
-        "So Please ⏰ Wait for My Boss Reply...\n\n"
+        "So Please ⏰ Wait for My Boss Reply...\n\n\n"
             
             
 
@@ -82,7 +82,7 @@ START_OTHER_USERS_TEXT = get_config(
 ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
-        "i am online <b>master</b>\n\n"
+        "i am online <b>Master</b>\n\n"
         "This is an Open Source Project available on "
         "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
         "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
