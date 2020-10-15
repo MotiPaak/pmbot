@@ -61,7 +61,7 @@ START_OTHER_USERS_TEXT = get_config(
     (
         "Hi. ☺️\n"
         "Thank you for using me 😬\n\n"
-        "📩 My BOSS will reply ASAP
+        "📩 My BOSS will reply ASAP "
 
          "So Please ⏰ Wait for My Boss Reply... "
 
