@@ -61,16 +61,19 @@ START_OTHER_USERS_TEXT = get_config(
     (
         "Hi. ☺️\n"
         "Thank you for using me 😬\n\n"
+            
+        "Leave a massage "
+           
         "📩 My BOSS will reply ASAP "
 
          "So Please ⏰ Wait for My Boss Reply... "
 
-
-
-
-
-
         "ℹ️ Subscribe @PUBGM_Tricks if you 😍 using this bot❗️❣️"
+
+
+
+
+
     )
 )
 # check online status of your bot
